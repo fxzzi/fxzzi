@@ -2,9 +2,8 @@
 <h4 align="center">Welcome to my profile!</h4>
 
 <p align="center">
-  <a href="https://gitlab.com/users/fazzi/projects"><img src="https://img.shields.io/badge/GitLab-Projects-FF6F61?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-  <a href="https://gitlab.com/fazzi/dotfiles"><img src="https://img.shields.io/badge/Dotfiles-On_GitLab-FFC107?style=for-the-badge&logo=files&logoColor=white"></a>
+  <a href="https://gitlab.com/users/fazzi/projects"><img src="https://img.shields.io/badge/GitLab-Projects-FF6F61?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto"></a>
+  <a href="https://gitlab.com/fazzi/nixohess"><img src="https://img.shields.io/badge/NIXOS-DOTFILES-7EBAE4?style=for-the-badge&logo=nixos&logoColor=white&logoSize=auto" alt="Badge"></a>
 </p>
 
 <p align="center">
