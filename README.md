@@ -1,11 +1,11 @@
-<h1 align="center">Hello! 👋 I'm Fazzi.</h1>
-<h4 align="center">Welcome to my profile!</h4>
+<h2 align="center">Hello! 👋 I'm Fazzi.</h1>
 
-<p align="center">
-  <a href="https://gitlab.com/users/fazzi/projects"><img src="https://img.shields.io/badge/GitLab-Projects-FF6F61?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto"></a>
-  <a href="https://gitlab.com/fazzi/nixohess"><img src="https://img.shields.io/badge/NIXOS-DOTFILES-7EBAE4?style=for-the-badge&logo=nixos&logoColor=white&logoSize=auto" alt="Badge"></a>
-</p>
+I'm a first year BSc student studying Computer Science.  
 
-<p align="center">
-  This is where I keep some of my projects. My main work and repositories, however, are hosted over on <a href="https://gitlab.com/Fazzi">GitLab</a>.
-</p>
+This is where I keep some of my projects. My main work and repositories, however, are hosted over on <a href="https://gitlab.com/fazzi">GitLab</a>.
+  
+My CV / Resume is available <a href="https://gitlab.com/fazzi/cv/-/raw/main/cv.pdf?ref_type=heads&inline=false">here.</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=fxzzi&theme=github_dark&count_private=true&show_icons=true" />
+</a>
