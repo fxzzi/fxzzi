@@ -2,7 +2,7 @@
     <pre>Hello! 👋 I'm Fazzi.</pre>
   </h1>
 
-I'm a first year BSc student studying Computer Science.
+I'm in my second year BSc studying Computer Science.
 
 This is where I keep some of my projects. My main work and repositories, however, are hosted over on <a href="https://gitlab.com/fazzi">GitLab</a>.
   
